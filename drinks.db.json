@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Coco Melon",
+        "ingredients": [
+            "Cocoa",
+            "Melon"
+        ],
+        "userId": 10,
+        "description": "A sweet mix of Cocoaa and water melon",
+        "recipe": "Mix water and Melon"
+    },
+    {
+        "name": "morgan ",
+        "id": 1677231382842
+    }
+]
